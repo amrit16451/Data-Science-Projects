@@ -1,4 +1,5 @@
 Data Analytics Projects
+
 • Classification of Tik Tok videos: Used statsmodels and scikit-learn to predict whether videos presented claims or opinions to improve triaging process of videos for human review
 
 • Classification of Waze data: Built decision tree, random forest, and XGBoost to predict Waze user churn
